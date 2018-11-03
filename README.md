@@ -2,6 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/3483230/47861594-73f77e80-de36-11e8-8d25-69ebcf1bf2c8.png" align="right" alt="logo" width="200px" />
 
+[![Build Status](https://travis-ci.com/tbrand/roulette.svg?branch=master)](https://travis-ci.com/tbrand/roulette)
+
 You can try awesome algorithms quickly.
 
 This project contains 4 binaries.
