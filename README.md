@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/3483230/47861629-840f5e00-de36-11e8-9c06-551ddbebd088.gif" width="800px" />
 
-<img src="https://user-images.githubusercontent.com/3483230/47861594-73f77e80-de36-11e8-8d25-69ebcf1bf2c8.png" align="right" alt="logo"/>
+<img src="https://user-images.githubusercontent.com/3483230/47861594-73f77e80-de36-11e8-8d25-69ebcf1bf2c8.png" align="right" alt="logo" width="200px" />
 
 You can try awesome algorithms quickly.
 
