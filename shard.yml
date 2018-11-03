@@ -1,0 +1,19 @@
+name: roulette
+version: 0.1.0
+
+authors:
+  - tbrand <taichiro0709@gmail.com>
+
+targets:
+  rl_analyze:
+    main: src/bin/rl_analyze/bin.cr
+  rl_compare:
+    main: src/bin/rl_compare/bin.cr
+  rl_play:
+    main: src/bin/rl_play/bin.cr
+  rl_simulate:
+    main: src/bin/rl_simulate/bin.cr
+
+crystal: 0.26.1
+
+license: MIT
